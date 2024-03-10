@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Ponali
-- 👀 I’m interested in coding, collaborating and working
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, etc.
-- 💞️ I’m looking to collaborate on HEXEc and my friends
-- 📫 How to reach me: Ponali#3906 on Discord, Ponali on Scratch and Replit
-- Wish you a good day!
+# *@ponali*
+welcome to my github: i do not have much to say except this is where i mostly store my code.
+i have learned a lot of languages: like, more than 4 programming languages.
+if you want to learn more, go *[here](https://ponali.github.io/)*.
 
 <!---
 Ponali/Ponali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
